@@ -1,7 +1,7 @@
 import java.util.*; // for Random and Arrays
 import java.text.*; // for DecimalFormat
 
-/**
+/*
  * Demonstrate Java primitive arrays and their multitude of operations.
  * @author Ilkka Kokkarinen
  */
