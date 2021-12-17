@@ -22,7 +22,7 @@ Labs that passed the tester less than 10 sec:
 17. Lab8  - Text Files II: Tail               (Tail)             --> 383ms 
 18. Lab9  - Lissajous Curves                  (Lissajous)        --> N/A         *RUN*   
 19. Lab10 - Computation Streams               (StreamExercises)  --> 2067ms
-20. Lab15 - Zeckendorf Encoding               (Zeckendorf)       --> 72665ms  *RUN, but extremely long* //Did not submit it. 
+20. Lab15 - Zeckendorf Encoding               (Zeckendorf)       --> 72665ms     *RUN, but extremely long* //Did not submit it. 
 21. Lab33 - Sardine Array                     (Sardines)         --> 3521ms
 22. Lab37 - Big Ten-Four                      (TenFour)          --> 627ms
 
