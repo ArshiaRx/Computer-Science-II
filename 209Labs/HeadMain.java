@@ -1,0 +1,26 @@
+import javax.swing.*;
+import java.awt.*;
+import javax.swing.border.*;
+import java.awt.event.*;
+
+/**
+ * Lab5 - Introduction To Swing
+ *
+ * @author (Arshia Rahim)
+ * Date: 2021-11-28
+ */
+
+public class HeadMain {
+    public static void main(String[] args) {
+        JFrame f = new JFrame("Head Lab");
+        // Tell the frame to obey the close button
+        f.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
+        
+        f.setLayout(new GridLayout(2, 2));
+        for(int i = 0; i < 4; i++) {
+            f.add(new Head());
+        }
+        f.pack();
+        f.setVisible(true);        
+    }
+}
