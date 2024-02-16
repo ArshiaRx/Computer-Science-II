@@ -2,6 +2,9 @@
 * The language used in the projects was java and application used was BlueJ.
 * This Course was taken in Fall 2021 at chang school by ilkka kokkarinen.
 
+### You may refer to my content, but COPYING it is strictly prohibited, as it would violate policy 60.
+-> F2021
+
 # Bug Bounty List for CCPS 209
 
 The following lab problems were among the big bunch that was added to the set during the pandemic isolation of Spring and Summer of 2020. As of this writing, the listed problems have not yet been solved and submitted by any students. To ensure that these problems and their automated testers do not contain any errors that would make them impossible for students to solve, the author Ilkka Kokkarinen offers a bounty of **three extra lab marks** to the first solver of each problem in the list below.
