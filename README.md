@@ -1,4 +1,4 @@
-# CCPS109 - Computer Science II
+# Computer Science II - CCPS209
 * The language used in the projects was java and application used was BlueJ.
 * This Course was taken in Fall 2021 at chang school by ilkka kokkarinen.
 
